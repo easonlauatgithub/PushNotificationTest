@@ -1,0 +1,9 @@
+//Actionable Notification
+{
+  "aps": {
+    "alert": "New Posts!",
+    "sound": "default",
+    "link_url": "https://raywenderlich.com",
+    "category": "NEWS_CATEGORY"
+  }
+}
